@@ -1,5 +1,5 @@
 # Model Compression (Feb 28, 2022)
-we provided an overview of speech recognition models and model compression techniques in this session.
+We provided an overview of speech recognition models and model compression techniques in this session.
 
 ## Demo for Knowledge Distillation
 
